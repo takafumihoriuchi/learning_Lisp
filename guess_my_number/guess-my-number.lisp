@@ -1,2 +1,3 @@
 (defun guess-my-number ()
-	(ash (+ *small* *big*) -1))
+	(ash (+ *small* *bisg*) -1)
+)
